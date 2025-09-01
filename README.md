@@ -68,11 +68,6 @@ flutter test
 
 ---
 
-## Screenshot
-*(Insert screenshot from iOS Simulator here, e.g. in `/docs/screenshot-ios.png`)*
-
----
-
 ## Notes
 This app was built for learning purposes and demonstrates:
 - Flutter state management with a `StatefulWidget`.
