@@ -27,6 +27,7 @@ The project is organized using a **feature-based folder structure**:
 ```
 lib/
  ├─ app.dart              # Root app widget
+ ├─ main.dart
  ├─ core/                 # Shared theme/tokens
  └─ features/
      ├─ converter_page.dart
