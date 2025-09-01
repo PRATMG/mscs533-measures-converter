@@ -1,6 +1,6 @@
 # Measures Converter
 
-This is a Flutter application I created as part of **MSCS 533**.  
+This is a Flutter application I created as part of **MSCS 533** first assignment.  
 The app allows users to convert values between **metric** and **imperial** units.  
 It supports three categories of conversions:
 
